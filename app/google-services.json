@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "124520175925",
+    "firebase_url": "https://book-app-madd-kotlin-default-rtdb.firebaseio.com",
+    "project_id": "book-app-madd-kotlin",
+    "storage_bucket": "book-app-madd-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124520175925:android:bc95458f5d75ed9e1c947c",
+        "android_client_info": {
+          "package_name": "com.example.madd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124520175925-cbjli8f37lvh33bndrojetf9h2ahlium.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDofnOF8bA_0a3yuPhktuLsUMIfC4e0rKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124520175925-cbjli8f37lvh33bndrojetf9h2ahlium.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
